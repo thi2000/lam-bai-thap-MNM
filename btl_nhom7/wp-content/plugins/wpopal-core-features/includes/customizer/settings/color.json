@@ -1,0 +1,14 @@
+{
+	"Color Style":{
+
+		"Theme":[
+		 	{ "id":"theme_c_heading", "type": "heading", "label": "Primary" },
+		 	{ "id":"theme_bg_primary" , "selector": ".btn-primary, .bg-primary, .progress-bar", "type": "background-color" , "label": "Background Color" },
+		 	{ "id":"theme_text_primary", "selector": "body, a, .c-primary", "type": "color" , "label": "Text Color" },
+		 	{ "id":"theme_a_hover", "selector": "a:hover", "type": "color" , "label": "Hover Color" },
+		 	{ "id":"theme_text_heading", "selector": "h1,h2,h3,h4,h5,h6", "type": "color" , "label": "Heading Color" },	
+			{}	 
+		] 
+	} 
+}
+

@@ -1,0 +1,37 @@
+.wpopal-customize-highlight,
+.wpopal-customize-highlight-body {
+  pointer-events: none;
+  z-index: 500;
+  border: 1px dashed #0085ba; }
+  .wpopal-customize-highlight .customize-partial-edit-shortcut button,
+  .wpopal-customize-highlight-body .customize-partial-edit-shortcut button {
+    left: 0; }
+  .wpopal-customize-highlight .button-customize-group,
+  .wpopal-customize-highlight-body .button-customize-group {
+    left: 0;
+    right: 0;
+    margin: -20px auto 0;
+    text-align: center; }
+    .wpopal-customize-highlight .button-customize-group .wpopal-button-customizer,
+    .wpopal-customize-highlight .button-customize-group .customize-partial-edit-shortcut,
+    .wpopal-customize-highlight-body .button-customize-group .wpopal-button-customizer,
+    .wpopal-customize-highlight-body .button-customize-group .customize-partial-edit-shortcut {
+      position: static;
+      float: none; }
+      .wpopal-customize-highlight .button-customize-group .wpopal-button-customizer.hide,
+      .wpopal-customize-highlight .button-customize-group .customize-partial-edit-shortcut.hide,
+      .wpopal-customize-highlight-body .button-customize-group .wpopal-button-customizer.hide,
+      .wpopal-customize-highlight-body .button-customize-group .customize-partial-edit-shortcut.hide {
+        display: none; }
+
+.wpopal-highlight-body .wpopal-customize-highlight-body {
+  display: block !important;
+  position: fixed;
+  border: 0;
+  top: 25px;
+  left: 3px;
+  width: 100%; }
+  .wpopal-highlight-body .wpopal-customize-highlight-body .button-customize-group {
+    text-align: left; }
+  .wpopal-highlight-body .wpopal-customize-highlight-body .wpopal-button-customizer {
+    display: none; }

@@ -1,0 +1,20 @@
+{
+	"Color Style":{
+
+		"Button":[
+		 	{ "id":"theme_button_heading", "type": "heading", "label": "Primary Button" },
+		 	{ "id":"theme_button_bg_primary" , "selector_key": "button_style", "type": "background-color" , "label": "Background Color" },
+		 	{ "id":"theme_button_bd_primary" , "selector_key": "button_style", "type": "border-color" , "label": "Border Color" },
+		 	{ "id":"theme_button_primary", "selector_key": "button_style", "type": "color" , "label": "Color" },
+
+		 	{ "id":"theme_button_hover_heading", "type": "heading", "label": "Primary Button Hover" },
+		 	{ "id":"theme_button_hover_bg_primary" , "selector_key": "button_hover", "type": "background-color" , "label": "Background Color" },
+		 	{ "id":"theme_button_hover_bd_primary" , "selector_key": "button_hover", "type": "border-color" , "label": "Border Color" },
+		 	{ "id":"theme_button_hover_primary" , "selector_key": "button_hover", "type": "color" , "label": "Color" },
+
+			{}	 
+		] 
+	} 
+}
+
+

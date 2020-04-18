@@ -1,0 +1,35 @@
+{
+	"Typography":{
+
+		"Global":[
+		 	{ "id":"glb_body_h", "type": "heading", "label": "General" },
+		 	{ "id":"body_font", "selector": "body", "type": "google_font",  "label": "Font Family" },
+		 	{ "id":"body_font_fs", "selector": "body", "type": "font_style",  "label": "Font Style" },	
+		 	{ "id":"body_font_fsz", "selector": "body", "type": "slider", "property":"font-size", "label": "Font Size" , "choices":{"min":"10", "max":"26", "default":"16"} },
+		 	{ "id":"body_font_lht", "selector": "body", "type": "slider", "property":"line-height", "label": "Line Height" ,  "choices":{"min":"10", "max":"50", "default":"16"} },		
+		 	{ "id":"body_font_lpc", "selector": "body", "type": "slider", "property":"letter-spacing", "label": "Letter Spacing",  "choices":{"min":"0", "max":"50", "default":"5"}  },	
+		 	{}	,
+		 	{ "id":"glb_heading_h", "type": "heading", "label": "Heading" },
+		 	{ "id":"heading_font", "selector": "h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6", "type": "google_font",  "label": "Font Family" },
+		 	{ "id":"heading_font_fs", "selector": "h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6", "type": "font_style",  "label": "Font Style" },	
+
+		 	{ "id":"heading_font_lht", "selector": "h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6", "type": "slider", "property":"line-height", "label": "Line Height" ,  "choices":{"min":"10", "max":"26", "default":"16"} },		
+		 	{ "id":"heading_font_lpc", "selector": "h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6", "type": "slider", "property":"letter-spacing", "label": "Letter Spacing",  "choices":{"min":"0", "max":"26", "default":"5"}  },	
+
+			{}	 
+		],
+
+		"Sidebar":[
+		 	
+		 	{ "id":"sidebar_both", "type"		: "heading", "label": "Sidebar Left and Right" },
+		 	{ "id":"sidebar_b_fs", "selector"   : ".column-sidebar .widget .widget-title", "type": "font_style",  "label": "Font Style" },	
+			{ "id":"sidebar_b_font", "selector" : ".column-sidebar .widget .widget-title", "type": "google_font",  "label": "Heading Font Family" },
+			{ "id":"sidebar_h_fsz", "selector"  : ".column-sidebar .widget .widget-title", "type": "slider", "property":"font-size", "label": "Heading Font Size" , "choices":{"min":"10", "max":"26", "default":"16"} },
+			{}	 
+		]
+
+
+		
+	} 
+}
+

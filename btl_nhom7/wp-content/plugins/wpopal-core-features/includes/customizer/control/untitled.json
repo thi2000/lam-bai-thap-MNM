@@ -1,0 +1,21 @@
+{ "id":"body_font", "selector":"body", "type": "google_font", "label": "Font Family", "selector_key":"selector_key" },
+
+		 	{ "id":"secondary_font_title", "selector": "#page", "type": "heading", "label": "Heading Font" },
+		 	{ "id":"secondary_font_title", "selector": "#page", "type": "google_font", "label": "Font Family" },
+
+		 	{ "id":"tertiary_font_title", "selector": "#page", "type": "heading", "label": "Tertiary Font" },
+		 	{ "id":"secondary_font_title", "selector": "#page", "type": "google_font", "label": "Font Family" },
+
+		 	{ "id":"quaternary_font_title", "selector": "#page", "type": "heading", "label": "Quaternary Font" },
+		 	{ "id":"quaternary_font_title", "selector": "#page", "type": "google_font", "label": "Font Family" },
+
+		 	{ "id":"body_heading_title", "selector": "body", "type": "heading", "label": "Body" },
+		 	{ "id":"body_font_size", "selector": "body", "type": "slider", "label": "Font Size", "property":"font-size",   "choices":{"min":"10", "max":"26", "unit":"px", "default":"16"} },
+		 	{ "id":"body_line_height", "selector": "body", "type": "slider", "label": "Line Height", "property":"line-height",  "choices":{"min":"10", "max":"50", "unit":"px", "default":"16"} },	
+		 	{ "id":"body_letter_spacing", "selector": "body", "type": "slider", "label": "Letter Spacing", "property":"letter-spacing",  "choices":{"min":"0", "max":"10", "unit":"px", "default":"0"} },	
+
+		 	{ "id":"heading_heading_title", "selector": "#page", "type": "heading", "label": "Heading" },	
+		 	{ "id":"heading_font_style", "selector_key": "key",
+		 		 "type": "font_style", "label": "Font Style" },	
+
+		 	{ "id":"heading_letter_spacing", "selector": "#page", "type": "slider", "label": "Letter Spacing",  "choices":{"min":"0", "max":"10", "unit":"px", "default":"0"} },

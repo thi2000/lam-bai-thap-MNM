@@ -1,0 +1,1407 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wpopal Core Features\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-11-25 03:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: templates/social-share.php:17
+msgid "Share On:"
+msgstr ""
+
+#: templates/social-share.php:25
+msgid "Share on facebook"
+msgstr ""
+
+#: templates/social-share.php:31
+msgid "Share on Twitter"
+msgstr ""
+
+#: templates/social-share.php:37
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: templates/social-share.php:43
+msgid "Share on Tumblr"
+msgstr ""
+
+#: templates/social-share.php:49 templates/social-share.php:50
+msgid "Share on Google plus"
+msgstr ""
+
+#: templates/social-share.php:56
+msgid "Share on Pinterest"
+msgstr ""
+
+#: templates/social-share.php:60
+msgid "Email to a Friend"
+msgstr ""
+
+#: includes/vendors/opalelementor.php:42
+msgid "Grid"
+msgstr ""
+
+#: includes/vendors/opalelementor.php:43 includes/widgets/wc_layered-nav.php:96
+#: includes/vendors/woocommerce/template_functions.php:114
+msgid "List"
+msgstr ""
+
+#: includes/vendors/opalelementor.php:44
+msgid "Split Style"
+msgstr ""
+
+#: includes/admin/class-menu.php:28
+msgid "Manage Plugins Below"
+msgstr ""
+
+#: includes/admin/class-menu.php:30
+msgid "Go Manage Plugins"
+msgstr ""
+
+#: includes/admin/class-menu.php:48
+msgid "Wpopal"
+msgstr ""
+
+#: includes/admin/class-menu.php:52 includes/admin/class-menu.php:86
+msgid "Welcome"
+msgstr ""
+
+#: includes/admin/class-menu.php:107
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/admin/class-menu.php:117
+#, php-format
+msgid "Welcome to Use %s"
+msgstr ""
+
+#: includes/admin/class-menu.php:140
+msgid "Version"
+msgstr ""
+
+#: includes/admin/class-menu.php:141
+msgid "Information"
+msgstr ""
+
+#: includes/admin/class-menu.php:141
+msgid "Click here"
+msgstr ""
+
+#: includes/admin/class-menu.php:159
+msgid "Dashboard"
+msgstr ""
+
+#: includes/admin/class-menu.php:164
+msgid "Import Plugins"
+msgstr ""
+
+#: includes/admin/class-menu.php:215
+msgid ""
+"All plugin are installed as require, Click to the link and select demo for "
+"installation"
+msgstr ""
+
+#: includes/admin/class-menu.php:217
+msgid "Import Demo"
+msgstr ""
+
+#. Widget name will appear in UI
+#: includes/widgets/recent_post.php:25
+msgid "Opal Recent Posts Widget"
+msgstr ""
+
+#: includes/widgets/recent_post.php:27
+msgid "Show list of recent post"
+msgstr ""
+
+#: includes/widgets/recent_post.php:73
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/recent_post.php:78
+msgid "Num Posts:"
+msgstr ""
+
+#: includes/widgets/recent_post.php:83
+msgid "Show Date"
+msgstr ""
+
+#: includes/widgets/recent_post.php:88
+msgid "Show Admin"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:29
+msgid ""
+"Display a list of attributes to filter products in your store.(OSF custom)"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:31
+msgid "WpOpal Filter Products by Attribute"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:82
+msgid "Filter by"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:83
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:88
+msgid "Attribute"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:94
+msgid "Display type"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:97
+msgid "Dropdown"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:103
+msgid "Style"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:105
+msgid "1 Column"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:106
+msgid "2 Columns"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:107
+msgid "Inline"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:113
+msgid "Query type"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:115
+msgid "AND"
+msgstr ""
+
+#: includes/widgets/wc_layered-nav.php:116
+msgid "OR"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:40
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/woocommerce/single-product-reviews.php:42
+msgid "Reviews"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:72
+msgid "Customers review"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:77
+#, php-format
+msgid "%s ratings"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:83
+msgid "Star"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:96
+msgid "Rate it!"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:97
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:99
+msgid "Write A Review"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:110
+msgid "Add a review"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:110
+msgid "Be the first to review"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:111
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:115
+msgid "Name"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:117
+msgid "Email"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:120
+msgid "Submit"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:129
+msgid "Your Rating"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:131
+msgid "Rate&hellip;"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:132
+msgid "Perfect"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:133
+msgid "Good"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:134
+msgid "Average"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:135
+msgid "Not that bad"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:136
+msgid "Very Poor"
+msgstr ""
+
+#: templates/woocommerce/single-product-reviews.php:141
+msgid "Your Review"
+msgstr ""
+
+#: templates/admin/import-inprocess.php:4
+#: templates/admin/import-confirmation.php:10
+msgid ""
+"For better and faster result, it's recommended to install the demo on a "
+"clean WordPress website."
+msgstr ""
+
+#: templates/admin/import-inprocess.php:5
+#: templates/admin/import-confirmation.php:11
+msgid "The installation will be take more time to complete"
+msgstr ""
+
+#: templates/admin/import-inprocess.php:6
+#: templates/admin/import-confirmation.php:12
+msgid "After completed your site get the look and like as demo"
+msgstr ""
+
+#: templates/admin/import-inprocess.php:17 templates/admin/import-done.php:15
+#: templates/admin/import-stay.php:8 includes/admin/menu/class-import.php:73
+msgid "Preview"
+msgstr ""
+
+#: templates/admin/import-inprocess.php:18 templates/admin/import-done.php:16
+#: templates/admin/import-stay.php:9
+msgid "Custimize Theme Now"
+msgstr ""
+
+#: templates/admin/import-inprocess.php:20 templates/admin/import-done.php:13
+#: templates/admin/require-plugins.php:23 templates/admin/import-stay.php:6
+msgid "Close"
+msgstr ""
+
+#: templates/admin/import-done.php:2
+msgid "The installation is successful."
+msgstr ""
+
+#: templates/admin/import-done.php:3
+msgid "Thank you so much for choosing the theme!."
+msgstr ""
+
+#: templates/admin/import-done.php:4
+msgid "if you need any help please keep contact us!."
+msgstr ""
+
+#: templates/admin/import-confirmation.php:16
+msgid ""
+"Please make sure your wp-content/uploads folder is existed and having "
+"writeable"
+msgstr ""
+
+#: templates/admin/import-confirmation.php:20
+msgid "Press button Continue to start your installation"
+msgstr ""
+
+#: templates/admin/import-confirmation.php:23
+msgid "Cancel"
+msgstr ""
+
+#: templates/admin/import-confirmation.php:24
+#: templates/admin/require-plugins.php:26
+msgid "Continue"
+msgstr ""
+
+#: templates/admin/require-plugins.php:2
+msgid "Checking some required plugins and automatic download from live server!"
+msgstr ""
+
+#: templates/admin/require-plugins.php:7
+msgid "Please wait a moment to download, upgrade and active following plugins!"
+msgstr ""
+
+#: templates/admin/require-plugins.php:16
+msgid ""
+"If there have any problem, please click to button Manually below to install "
+"themes"
+msgstr ""
+
+#: templates/admin/require-plugins.php:22
+msgid "Manually"
+msgstr ""
+
+#: templates/admin/require-plugins.php:25
+msgid "Install Plugins Now"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:71
+#: includes/vendors/woocommerce/class-customizer.php:96
+msgid "Product Loop Layout"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:72
+#: includes/vendors/woocommerce/class-customizer.php:97
+msgid ""
+"Set layout of product loop showing in Category Page, Archive Page, Product "
+"widget... It is as default layout"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:75
+#: includes/vendors/woocommerce/class-customizer.php:376
+#: includes/vendors/woocommerce/class-customizer.php:511
+#: includes/vendors/woocommerce/class-customizer.php:544
+#: includes/admin/metabox/cmb2.php:210 includes/admin/metabox/cmb2.php:244
+msgid "Default"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:76
+msgid "Layout 1"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:77
+msgid "Layout 2"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:78
+msgid "Layout 3"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:79
+msgid "Layout 4"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:100
+msgid "Simple"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:101
+msgid "Swap"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:102
+#: includes/admin/metabox/cmb2.php:121
+msgid "Gallery"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:119
+msgid "Enale Product Color Swatch"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:120
+msgid "Show all color in loop product."
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:138
+msgid "Loop Product Category"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:139
+msgid "Show Product category in loop item."
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:157
+msgid "Pagination Mode"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:158
+msgid ""
+"Pagination style will be showed in page numbers, load more, infinite load."
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:165
+msgid "Pagination Page Numbers"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:166
+msgid "Ajax Load More"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:167
+msgid "Ajax infinite load"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:185
+msgid "Disable Addition Navigation"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:186
+msgid "Disable custom Switch view mode, change limited show per page"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:203
+msgid "Enable Top filter Sidebar"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:204
+msgid "Display all widget filter at top of listing block"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:222
+msgid "Sidebar Positioning"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:223
+msgid ""
+"Set sidebar's default position. Can either be: right, left, both or none. "
+"Note: this can be overridden on individual pages."
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:230
+msgid "Right sidebar"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:231
+msgid "Left sidebar"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:232
+msgid "Left & Right sidebars"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:233
+msgid "No sidebar"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:268
+msgid "Single Product Page"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:285
+msgid "Disable Sticky Content Top"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:286
+msgid ""
+"Enable sticky content keep one fixed position while mouse scrolling apply "
+"for gallery and summary box"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:302
+msgid "Product Navigation"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:303
+msgid ""
+"Displays next and previous links on product pages. A product thumbnail is "
+"displayed with the title revealed on hover."
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:329
+msgid "Product Display Style"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:330
+msgid "Set product layout style in variant"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:336
+#: includes/vendors/woocommerce/class-customizer.php:377
+#: includes/customizer/control/background-position.php:27
+msgid "Center"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:337
+#: includes/vendors/woocommerce/class-customizer.php:378
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:338
+#: includes/vendors/woocommerce/class-customizer.php:379
+msgid "Split"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:339
+msgid "Split & Accordion"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:340
+#: includes/vendors/woocommerce/class-customizer.php:380
+msgid "Small Gallery"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:341
+#: includes/vendors/woocommerce/class-customizer.php:381
+msgid "Big Gallery"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:342
+#: includes/vendors/woocommerce/class-customizer.php:382
+#: includes/admin/metabox/cmb2.php:416
+msgid "Sidebar"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:343
+#: includes/vendors/woocommerce/class-customizer.php:345
+#: includes/vendors/woocommerce/class-customizer.php:346
+#: includes/vendors/woocommerce/class-customizer.php:347
+#: includes/vendors/woocommerce/class-customizer.php:348
+#: includes/vendors/woocommerce/class-customizer.php:349
+#: includes/vendors/woocommerce/class-customizer.php:350
+msgid "One Cloum"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:352
+msgid "Custom"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:369
+msgid "Product Layout"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:370
+msgid "How to show images, tabs nice view with selected layout?"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:403
+msgid "Related Product per row"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:404
+msgid "How many products should be shown per row?"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:432
+msgid "Related Product Limited"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:433
+msgid "How many products should be fetched to show?"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:461
+msgid "Product Extra Information"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:462
+msgid "Display more information in bottom of summary?"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:504
+msgid "Product Image Block"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:505
+#: includes/vendors/woocommerce/class-customizer.php:538
+msgid "How should show images in gallery, slideshow....?"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:512
+msgid "Thumbnail Left and Slider"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:513
+msgid "Thumbnail Right and Slider"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:514
+msgid "Thumbnail Bottom and Slider"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:515
+msgid "No Slider Image In One Column"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:516
+msgid "No Slider Image In Two Column"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:517
+msgid "No Thumbnail and Slider"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:537
+msgid "Comment Template"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:545
+msgid "Advanded"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:562
+msgid "Content In Tabs?"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:563
+msgid "Show content in tabs or accordion .....?"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:569
+msgid "Default Tabs"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:570
+msgid "Vertical Tabs"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:571
+msgid "Accordion"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:610
+msgid "Default sorting (custom ordering + name)"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:611
+msgid "Popularity (sales)"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:612
+msgid "Average rating"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:613
+msgid "Sort by most recent"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:614
+msgid "Sort by price (asc)"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-customizer.php:615
+msgid "Sort by price (desc)"
+msgstr ""
+
+#: includes/vendors/woocommerce/template_functions.php:26
+msgid "Filter"
+msgstr ""
+
+#: includes/vendors/woocommerce/template_functions.php:60
+msgid "Clear filters"
+msgstr ""
+
+#: includes/vendors/woocommerce/template_functions.php:100
+msgid "Load More"
+msgstr ""
+
+#: includes/vendors/woocommerce/template_functions.php:115
+msgid "Two Column"
+msgstr ""
+
+#: includes/vendors/woocommerce/template_functions.php:116
+msgid "Three Column"
+msgstr ""
+
+#: includes/vendors/woocommerce/template_functions.php:117
+msgid "Four Column"
+msgstr ""
+
+#: includes/vendors/woocommerce/template_functions.php:131
+msgid "Show"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-taxonomies.php:65
+msgid "Metabox"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-taxonomies.php:72
+#: includes/vendors/woocommerce/brand/class-brand.php:85
+msgid "Logo"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-taxonomies.php:85
+msgid "Banner"
+msgstr ""
+
+#: includes/vendors/woocommerce/class-taxonomies.php:86
+msgid "Show the banner in product category page or any widgets"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:21
+msgid "Sidebar Left Shop"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:23
+#: includes/vendors/woocommerce/template-hooks.php:32
+#: includes/vendors/woocommerce/template-hooks.php:41
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:30
+msgid "Sidebar Single Shop"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:39
+msgid "Sidebar Right Shop"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:50
+msgid "Catalog Top Filter"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:52
+msgid "Add widgets here appear in top of product link."
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:251
+#: includes/vendors/woocommerce/template-hooks.php:534
+msgid "View your shopping cart"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:252
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/vendors/woocommerce/template-hooks.php:438
+msgid "Featured Products"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:446
+msgid "On Sale Now"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:454
+msgid "New In Store"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:521
+msgid "Search"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:548
+msgid "My Account"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:585
+#: includes/vendors/woocommerce/navigation/navigation.php:111
+msgid "More products"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:628
+msgid "You're viewing:"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:662
+msgid "Shop by Brand"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:672
+msgid "Product Brands"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:740
+msgid "Login"
+msgstr ""
+
+#: includes/vendors/woocommerce/template-hooks.php:741
+msgid "Register"
+msgstr ""
+
+#: includes/customizer/control/background-position.php:21
+msgid "Top Left"
+msgstr ""
+
+#: includes/customizer/control/background-position.php:22
+msgid "Top"
+msgstr ""
+
+#: includes/customizer/control/background-position.php:23
+msgid "Top Right"
+msgstr ""
+
+#: includes/customizer/control/background-position.php:26
+msgid "Left"
+msgstr ""
+
+#: includes/customizer/control/background-position.php:28
+msgid "Right"
+msgstr ""
+
+#: includes/customizer/control/background-position.php:31
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/customizer/control/background-position.php:32
+msgid "Bottom"
+msgstr ""
+
+#: includes/customizer/control/background-position.php:33
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/customizer/control/sidebar.php:26
+msgid "-- Select Sidebar --"
+msgstr ""
+
+#: includes/admin/importer/class-widget-importer.php:89
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: includes/admin/importer/class-widget-importer.php:112
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/admin/importer/class-widget-importer.php:173
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/admin/importer/class-widget-importer.php:247
+msgid "Imported"
+msgstr ""
+
+#: includes/admin/importer/class-widget-importer.php:250
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/admin/importer/class-widget-importer.php:256
+msgid "No Title"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:66
+msgid "Confirmed to install the sample "
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:67
+#: includes/admin/importer/class-import-steps.php:68
+#: includes/admin/importer/class-import-steps.php:69
+#: includes/admin/importer/class-import-steps.php:70
+#: includes/admin/importer/class-import-steps.php:71
+#: includes/admin/importer/class-import-steps.php:72
+#: includes/admin/importer/class-import-steps.php:73
+#: includes/admin/importer/class-import-steps.php:74
+#: includes/admin/importer/class-import-steps.php:75
+msgid "Install required plugins "
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:248
+msgid "The installation was not complete"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:249
+msgid ""
+"Could not fetch data for the installation, Please try again or contact our "
+"developer. Thanks!!!"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:259
+msgid "It is getting data from live server for comming installation!"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:262
+msgid "Starting to import required plugins"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:286
+msgid "Starting to download attachments then import"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:375
+msgid "Downloading:"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:399
+#: includes/admin/importer/class-import-steps.php:451
+#: includes/admin/importer/class-import-steps.php:473
+msgid "Starting to import Content"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:400
+msgid "Waiting for a while to download all attachment files!"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:450
+msgid "Starting to import other sample content"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:489
+msgid "Waiting for a while to import content!"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:497
+msgid "Starting to import required widgets"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:548
+msgid "The Installer is excuting to import menu, please waiting for a while!"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:552
+msgid "Starting to import website menu"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:570
+msgid ""
+"All siders are downloading from live server then extract and install, please "
+"waiting for a while!"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:576
+msgid "Starting to import required slider"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:594
+msgid "Please waiting for downloading sliders from live server"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:641
+msgid "Starting to import customizer"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:783
+msgid "Import all settings for theme, please waiting for a while!"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:787
+msgid "Starting to theme Options"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:883
+msgid ""
+"Import all setting, options, other contents, please waiting for a while!"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:886
+msgid "Starting to import other content and settings"
+msgstr ""
+
+#: includes/admin/importer/class-import-steps.php:937
+msgid "Completed the installation"
+msgstr ""
+
+#: includes/admin/importer/class-woo-product-importer.php:38
+#, php-format
+msgid "No %1$s data specified to create %1$s"
+msgstr ""
+
+#: includes/admin/importer/class-woo-product-importer.php:45
+msgid "You do not have permission to create products"
+msgstr ""
+
+#: includes/admin/importer/class-woo-product-importer.php:52
+#, php-format
+msgid "Missing parameter %s"
+msgstr ""
+
+#: includes/admin/importer/class-woo-product-importer.php:67
+#, php-format
+msgid "Invalid product type - the product type must be any of these: %s"
+msgstr ""
+
+#: includes/admin/importer/class-woo-product-importer.php:195
+msgid "The SKU already exists on another product."
+msgstr ""
+
+#: includes/admin/importer/class-woo-product-importer.php:610
+#, php-format
+msgid "Invalid URL %s."
+msgstr ""
+
+#: includes/admin/importer/class-woo-product-importer.php:622
+#: includes/admin/importer/class-woo-product-importer.php:624
+#, php-format
+msgid "Error getting remote image %s."
+msgstr ""
+
+#: includes/admin/importer/class-woo-product-importer.php:622
+#, php-format
+msgid "Error: %s."
+msgstr ""
+
+#: includes/admin/importer/class-woo-product-importer.php:645
+msgid "Invalid image type."
+msgstr ""
+
+#: includes/admin/importer/class-woo-product-importer.php:662
+msgid "Zero size file downloaded."
+msgstr ""
+
+#: includes/admin/menu/class-help.php:18 includes/admin/menu/class-help.php:24
+#: includes/admin/menu/class-help.php:33
+msgid "Help"
+msgstr ""
+
+#: includes/admin/menu/class-import.php:28
+#: includes/admin/menu/class-import.php:43
+msgid "Import Demos"
+msgstr ""
+
+#: includes/admin/menu/class-import.php:33
+msgid "Plugin"
+msgstr ""
+
+#: includes/admin/menu/class-import.php:75
+msgid "Import"
+msgstr ""
+
+#: includes/admin/menu/class-import.php:84
+msgid ""
+"Currently, we have not any sample data for this. Please take your time to "
+"keep update here."
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:47
+msgid "Page Metabox"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:51
+msgid "Header"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:54
+msgid "Footer"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:58
+msgid "Breadcrumb"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:90
+msgid "Video Metabox"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:100
+msgid "Video"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:102
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress."
+"org/Embeds</a>."
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:111
+msgid "Gallery Metabox"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:123
+msgid "Attach images to show in gallery."
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:132
+msgid "Audio Metabox"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:142
+msgid "Audio Link"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:144 includes/admin/metabox/cmb2.php:165
+#: includes/admin/metabox/cmb2.php:174
+msgid "Enter your audio link from soudcloud."
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:153
+msgid "Quote Metabox"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:163
+msgid "Author"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:172
+msgid "Quote"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:192
+msgid "Enable Custom Header"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:213 includes/admin/metabox/cmb2.php:248
+#: includes/admin/metabox/cmb2.php:386 includes/admin/metabox/cmb2.php:396
+msgid "Layout"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:231
+msgid "Enable Custom Footer"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:258
+msgid "Enable Fixed Footer"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:295
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:312
+msgid "Heading Color"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:321
+msgid "Breadcrumb Text Color"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:330
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:339
+msgid "Breadcrumb Background"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:354
+msgid "Breadcrumb Padding Top"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:368
+msgid "Breadcrumb Padding Bottom"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:403
+msgid "Sidebar Width"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:425
+msgid "Enable Page Title"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:432
+msgid "Padding Top"
+msgstr ""
+
+#: includes/admin/metabox/cmb2.php:445
+msgid "Padding Bottom"
+msgstr ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:211
+msgid "Sale quantity"
+msgstr ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:212
+msgid ""
+"Set this quantity will make the product to be a deal. The sale will end when "
+"this quantity is sold out."
+msgstr ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:217
+#, php-format
+msgid "%s product is sold"
+msgid_plural "%s products are sold"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:249
+msgid "Hurry! This sale ends in"
+msgstr ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:252
+msgid "days"
+msgstr ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:253
+msgid "hours"
+msgstr ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:254
+msgid "mins"
+msgstr ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:255
+msgid "secs"
+msgstr ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:256
+msgid "Expired"
+msgstr ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:284
+msgid "HURRY! ONLY"
+msgstr ""
+
+#: includes/vendors/woocommerce/deal/class-product-deal.php:284
+msgid "LEFT IN STOCK."
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:43
+msgctxt "post type general name"
+msgid "Sizes Chart"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:44
+msgctxt "post type singular name"
+msgid "Sizes Chart"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:45
+msgctxt "admin menu"
+msgid "Sizes Charts"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:46
+msgctxt "add new on admin bar"
+msgid "Sizes Chart"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:47
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:48
+msgid "Add New Sizes Chart"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:49
+msgid "New Sizes Chart"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:50
+msgid "Edit Sizes Chart"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:51
+msgid "View Sizes Chart"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:52
+msgid "All Sizes Chart"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:53
+msgid "Search Items"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:54
+msgid "Parent Items:"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:55
+msgid "No menus found."
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:56
+msgid "No menus found in Trash."
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:89
+msgid "None"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:123
+#: includes/vendors/woocommerce/brand/class-brand.php:78
+msgid "Product Metabox"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:129
+msgid "Size Chart"
+msgstr ""
+
+#: includes/vendors/woocommerce/sizechart/class-sizechart.php:180
+msgid "Sizes Chart"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:39
+#: includes/vendors/woocommerce/brand/class-brand.php:40
+#: includes/vendors/woocommerce/brand/class-brand.php:41
+msgid "Brands"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:42
+msgid "All Brands"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:43
+msgid "Parent Brand"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:44
+msgid "Parent Brand:"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:45
+msgid "New Brand Name"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:46
+msgid "Add New Brands"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:47
+msgid "Edit Brand"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:48
+msgid "Update Brand"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:49
+msgid "Separate Brand with commas"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:50
+msgid "Search Brands"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:51
+msgid "Add or remove Brands"
+msgstr ""
+
+#: includes/vendors/woocommerce/brand/class-brand.php:52
+msgid "Choose from the most used Brands"
+msgstr ""
+
+#: includes/vendors/woocommerce/product/class-single-layout.php:67
+msgid "Guaranteed Safe Checkout"
+msgstr ""
+
+#: includes/admin/metabox/switch/switch.php:29
+msgid "YES"
+msgstr ""
+
+#: includes/admin/metabox/switch/switch.php:30
+msgid "NO"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wpopal Core Features"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Implement rich functions for themes base on Wpopal. Wordpress framework and "
+"load widgets for theme used, this is required."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.wpopal.com/"
+msgstr ""

@@ -1,0 +1,31 @@
+{
+	"Typography":{
+		"Woocommerce":[
+		 	{ "id":"woo_pl_heading", "type": "heading", "label": "Product Loop" },
+		 	{ "id":"woo_pl_f", "selector_key" : "product_loop", "type": "google_font",  "label": "Font Family" },
+		 	{ "id":"woo_pl_fs", "selector_key": "product_loop", "type": "font_style",  "label": "Font Style" },
+		 	{ "id":"woo_pl_fz", "selector_key": "product_loop", "type": "slider", "property":"font-size", "label": "Font Size" },	
+		 	{ "id":"woo_pl_prices", "selector": ".price", "type": "slider", "property":"font-size", "label": "Price Font Size" },	
+
+		 	{ "id":"woo_ps_heading", "type" : "heading", "label": "Product Single" },
+		 	{ "id":"woo_ps_f", "selector"   : "h1.product_title", "type": "google_font",  "label": "Font Family" },
+		 	{ "id":"woo_ps_fs", "selector"  : "h1.product_title", "type": "font_style",  "label": "Font Style" },
+		 	{ "id":"woo_ps_fz", "selector"  : "h1.product_title", "type": "slider", "property":"font-size", "label": "Font Size" },	
+		 	{ "id":"woo_pl_sprices", "selector": ".summary .price", "type": "slider", "property":"font-size", "label": "Price Font Size" },	
+
+			{}	 
+		]
+	},
+	"Color Style":{
+		"Woocommerce":[
+		 	{ "id":"woo_c_heading", "type": "heading", "label": "General" },
+		 	
+		 	{ "id":"woo_pl_cprices", "selector": ".price", "type": "color" , "label": "Price Color" },
+
+		  	{ "id":"woo_pl_cproductcats", "selector": ".product-cats", "type": "color" , "label": "Product Cats Color" },
+		 		
+			{}	 
+		]
+	}
+}
+

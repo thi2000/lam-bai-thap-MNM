@@ -1,0 +1,20 @@
+2020-03-14 6:20:13 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'opc' in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 7
+2020-03-14 6:20:13 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 10
+2020-03-14 6:20:13 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 10
+2020-03-14 6:20:13 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\upload\install\controller\install\step_3.php on line 280
+2020-03-14 6:20:13 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\upload\install\controller\install\step_3.php on line 280
+2020-03-14 6:20:18 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'opc' in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 7
+2020-03-14 6:20:18 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 10
+2020-03-14 6:20:18 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 10
+2020-03-14 6:20:18 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\upload\install\controller\install\step_3.php on line 280
+2020-03-14 6:20:18 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\upload\install\controller\install\step_3.php on line 280
+2020-03-14 6:21:03 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'opc' in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 7
+2020-03-14 6:21:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 10
+2020-03-14 6:21:03 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 10
+2020-03-14 6:21:03 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\upload\install\controller\install\step_3.php on line 280
+2020-03-14 6:21:03 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\upload\install\controller\install\step_3.php on line 280
+2020-03-14 6:21:19 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'adimin' in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 7
+2020-03-14 6:21:19 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 10
+2020-03-14 6:21:19 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 10
+2020-03-14 6:21:19 - PHP Notice:  Undefined variable: mysql in C:\xampp\htdocs\upload\install\controller\install\step_3.php on line 280
+2020-03-14 6:21:19 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\xampp\htdocs\upload\install\controller\install\step_3.php on line 280

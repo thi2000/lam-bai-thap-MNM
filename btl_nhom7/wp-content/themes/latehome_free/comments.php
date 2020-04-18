@@ -1,0 +1,122 @@
+<?php
+/**
+ * The template for displaying comments.
+ *
+ * The area of the page that contains both current comments
+ * and the comment form.
+ *
+ * @package latehome_free
+ */
+
+if (!defined('ABSPATH')) {
+    exit; // Exit if accessed directly.
+}
+
+/*
+ * If the current post is protected by a password and
+ * the visitor has not yet entered the password we will
+ * return early without loading the comments.
+ */
+if (post_password_required()) {
+    return;
+}
+?>
+
+<div class="comments-area" id="comments">
+
+    <?php // You can start editing here -- including this comment! ?>
+
+    <?php if (have_comments()) : ?>
+
+        <h2 class="comments-title">
+
+            <?php
+            $comments_number = get_comments_number();
+            if (1 === (int)$comments_number) {
+                printf(
+                /* translators: %s: post title */
+                    esc_html_x('1 Comment', 'comments title', 'latehome_free'),
+                    '<span>' . get_the_title() . '</span>'
+                );
+            } else {
+                printf( // WPCS: XSS OK.
+                /* translators: 1: number of comments, 2: post title */
+                    esc_html(_nx(
+                        '%1$s comments',
+                        '%1$s comments',
+                        $comments_number,
+                        'comments title',
+                        'latehome_free'
+                    )),
+                    number_format_i18n($comments_number),
+                    '<span>' . get_the_title() . '</span>'
+                );
+            }
+            ?>
+
+        </h2><!-- .comments-title -->
+
+        <?php if (get_comment_pages_count() > 1 && get_option('page_comments')) : // are there comments to navigate through. ?>
+
+            <nav class="comment-navigation" id="comment-nav-above">
+
+                <h1 class="screen-reader-text"><?php esc_html_e('Comment navigation', 'latehome_free'); ?></h1>
+
+                <?php if (get_previous_comments_link()) { ?>
+                    <div class="nav-previous"><?php previous_comments_link(esc_html__('&larr; Older Comments',
+                            'latehome_free')); ?></div>
+                <?php }
+                if (get_next_comments_link()) { ?>
+                    <div class="nav-next"><?php next_comments_link(esc_html__('Newer Comments &rarr;',
+                            'latehome_free')); ?></div>
+                <?php } ?>
+
+            </nav><!-- #comment-nav-above -->
+
+        <?php endif; // check for comment navigation. ?>
+
+        <ol class="comment-list">
+
+            <?php
+            wp_list_comments(array(
+                'style' => 'ol',
+                'short_ping' => true,
+                'callback' => 'latehome_free_theme_comment'
+            ));
+            ?>
+
+        </ol><!-- .comment-list -->
+
+        <?php if (get_comment_pages_count() > 1 && get_option('page_comments')) : // are there comments to navigate through. ?>
+
+            <nav class="comment-navigation" id="comment-nav-below">
+
+                <h1 class="screen-reader-text"><?php esc_html_e('Comment navigation', 'latehome_free'); ?></h1>
+
+                <?php if (get_previous_comments_link()) { ?>
+                    <div class="nav-previous"><?php previous_comments_link(esc_html__('&larr; Older Comments',
+                            'latehome_free')); ?></div>
+                <?php }
+                if (get_next_comments_link()) { ?>
+                    <div class="nav-next"><?php next_comments_link(esc_html__('Newer Comments &rarr;',
+                            'latehome_free')); ?></div>
+                <?php } ?>
+
+            </nav><!-- #comment-nav-below -->
+
+        <?php endif; // check for comment navigation. ?>
+
+    <?php endif; // endif have_comments(). ?>
+
+    <?php
+    // If comments are closed and there are comments, let's leave a little note, shall we?
+    if (!comments_open() && '0' != get_comments_number() && post_type_supports(get_post_type(), 'comments')) :
+        ?>
+
+        <p class="no-comments"><?php esc_html_e('Comments are closed.', 'latehome_free'); ?></p>
+
+    <?php endif; ?>
+
+    <?php comment_form(); // Render comments form. ?>
+
+</div><!-- #comments -->

@@ -1,0 +1,15 @@
+{
+	"Layout":{
+		"Theme":[
+			{ "id":"theme_c_cwidth", "selector": "body .container", "type": "slider", "property":"max-width", "label": "Container Width", "choices":{"min":"980", "max":"1500", "default":"1170"}  },			
+		 	{ "id":"theme_b_heading", "type": "heading", "label": "Boxed Style" },
+		 	{ "id":"theme_b_bg", "selector": "body.layout-boxed", "type": "background-color"  , "label": "Background Color" },	
+		 	{ "id":"theme_b_width", "selector": "body.layout-boxed #page", "type": "slider", "property":"max-width", "label": "Boxed Container Width" , "choices":{"min":"1200", "max":"1500", "default":"1200"} },
+
+		 	{ "id":"theme_b_bgitop", "selector": "body.layout-boxed", "type": "image_select", "label": "Background Top" },	
+		 	{ "id":"theme_b_bgibottom", "selector": "body.layout-boxed .body-inner", "type": "image_select", "label": "Background Bottom" },		
+			{}	 
+		] 	 
+	} 
+}
+

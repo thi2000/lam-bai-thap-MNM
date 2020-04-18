@@ -1,0 +1,35 @@
+{
+	"Typography":{
+		"Breadcrumb":[
+		 
+		 	{ "id":"bcn_link_fs", "selector": ".breadcrumbs a", "type": "font_style",  "label": "Font Style" },
+		 	{ "id":"bcn_link_fz", "selector": ".breadcrumbs a", "type": "slider", "property":"font-size", "label": "Font Size" },	
+		 	{ "id":"bcn_link_fh", "selector": ".breadcrumbs a", "type": "slider", "property":"line-height", "label": "Line Height" },	
+		 	{ "id":"bcn_link_fp", "selector": ".breadcrumbs a", "type": "slider", "property":"letter-spacing", "label": "Letter Spacing" },
+
+			{}	 
+		]
+	},
+	"Color Style":{
+		"Breadcrumb":[
+		 	{ "id":"bcn_c_heading", "type": "heading", "label": "General" },
+		 	
+		 	{ "id":"bcn_link_fc", "selector": ".breadcrumbs a", "type": "color" , "label": "Color" },
+		 	{ "id":"bcn_link_fcr", "selector": ".breadcrumbs span.current-item", "type": "color" , "label": "Color Current" },
+		 		
+			{}	 
+		]
+	} , 
+	"Layout":{
+		"Breadcrumb":[
+		 	{ "id":"bcn_h_gen", "type": "heading", "label": "General" },
+		 	{ "id":"bcn_bgc", "selector": ".breadcrumbs", "type": "background_color" , "label": "Background" },
+		 	{ "id":"bcn_bg", "selector": ".breadcrumbs", "type": "image_select", "label": "Image Select" },		
+		 	{ "id":"bcn_pt", "selector": ".breadcrumbs", "type": "slider", "property":"padding-top", "label": "Padding Top" },		
+		 	{ "id":"bcn_pb", "selector": ".breadcrumbs", "type": "slider", "property":"padding-bottom", "label": "Padding Bottom" },	
+		 		
+			{}	 
+		]
+	} 
+}
+
